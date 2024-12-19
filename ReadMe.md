@@ -3,6 +3,9 @@
 ## Overview
 This project focuses on analyzing and forecasting financial fundamentals using machine learning techniques. It utilizes a dataset of financial features to predict target variables, likely key financial metrics or performance indicators.
 
+## Objective
+The objective is to develop a linear model that accurately predicts quarterly revenue growth for companies using a dataset of financial and economic indicators. The model will utilize 4,000 different features from 15,000 observations to make these predictions. Success will be measured by the model's Mean Squared Error (MSE) performance on a test dataset, aiming to provide reliable revenue growth forecasts for investment decision-making.
+
 ## Table of Contents
 - [Setup](#setup)
 - [Data](#data)
